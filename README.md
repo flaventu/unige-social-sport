@@ -12,6 +12,6 @@ Le consegne erano divise in 3 parti da completare durante il semestre (2/3 mesi)
 
 ### Partecipanti 🤝
 
-- Flavio Venturini - @flaventu
-- Virginia Passalacqua - @PassalacquaVirginia
-- Denis Muceku - @IlMuce
+- [Flavio Venturini](https://github.com/flaventu)
+- [Virginia Passalacqua](https://github.com/PassalacquaVirginia)
+- [Denis Muceku](https://github.com/IlMuce)
