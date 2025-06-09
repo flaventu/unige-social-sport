@@ -10,6 +10,12 @@ Le consegne erano divise in 3 parti da completare durante il semestre (2/3 mesi)
 
 ---
 
+### Overview 🔍
+
+![DiagrammaER](/docs/diagrammaER.png)
+
+---
+
 ### Partecipanti 🤝
 
 - [Flavio Venturini](https://github.com/flaventu)
